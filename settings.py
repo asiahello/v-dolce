@@ -1,0 +1,20 @@
+BOUNDS = (1280, 720)
+
+PLAYER_ORIGINS = [
+    (50, 50),
+    (50, 600),
+    (800, 50),
+    (800, 600),
+]
+
+HAND_ORIGINS = [
+    (50, 100),
+    (50, 400),
+    (800, 100),
+    (800, 400),
+]
+MIDDLE_ORIGIN = (600, 330)
+
+NUM_PLAYERS = 4
+MAX_HEALTH = 100
+BACKGROUND_COLOR = (0, 0, 0)
